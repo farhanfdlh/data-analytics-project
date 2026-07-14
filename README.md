@@ -68,6 +68,3 @@ A data enthusiast continuously learning and building projects in data engineerin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-fadhilah-rasyid)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhan-portfolio-smoky.vercel.app)
 
----
-
-⭐ If you find this repository helpful, feel free to give it a star!
